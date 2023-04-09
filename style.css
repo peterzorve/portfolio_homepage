@@ -40,15 +40,6 @@ p {
 
 
 
-
-
-
-
-
-
-
-
-
 button.normal {
     font-size: 14px;
     font-weight: 600;
@@ -313,27 +304,41 @@ body {
 
 
 #library {
-    /* width: 50%; */
+    /* width: 100%; */
     /* min-width: 250px; */
-    display: flex;
-    flex-wrap: wrap;
+    font-family: 'Courier New', Courier, monospace; 
+    word-wrap: break-word;
+    /* display: flex; */
+    display:inline-block;
+    /* flex-wrap: wrap; */
     /* justify-content: space-between; */
     justify-content: center;
 
-    /* padding: 12px 12px; */
-    /* border: 1px solid #cce7d0; */
-    border-radius: 5px;
+
+    padding: 12px 12px;
+    border: 2px solid rgb(255,204,0); 
+    border-radius: 10px;
     /* transition: .2s; */
-    background-color: rgba(0, 255, 255, 0.5);
+    background-color: rgba(0, 0, 0);
     position: relative;
     /* cursor: pointer; */
     /* box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.02);  */
-    margin: 15px 0;
+    /* margin: 15px 0; */
     margin-bottom : 12px;
     padding: 12px;
     padding-top: 12px;
-
 }
+
+
+
+#library:hover {
+    box-shadow: 10px 10px 60px rgb(8, 277, 30, 0.8);
+    /* box-shadow: 10px 10px 60px rgb(0, 0, 30, 0); */
+}
+
+
+
+
 
 
 
