@@ -169,6 +169,49 @@ body {
 
 
 
+.border_1                   {   border-width:2px;  border-style:solid;  border-color:#dcd7d7;  border-radius: 6px; }
+.border_2                   {   border-width:4px;  border-style:solid;  border-color:#b17e18;  border-radius: 10px  ; }
+
+.font_type_courier          {   font-family: 'Courier New', Courier, monospace;                  }
+.font_type_cambria          {   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', seri   f;}
+
+.bg_color_nar               {   background-color: #4d2f01;}
+
+.bg_image_1                 {   background-image: url('static/images/background/background_1.jpg') ; background-repeat: no-repeat; background-size: cover;}
+.bg_image_2                 {   background-image: url('static/images/background/background_2.jpg') ; background-repeat: no-repeat; background-size: cover;}
+.bg_image_3                 {   background-image: url('static/images/background/background_3.jpg') ; background-repeat: no-repeat; background-size: cover;} /*  opacity: 0.8;}  */
+.bg_image_4                 {   background-image: url('static/images/background/background_4.jpg') ; background-repeat: no-repeat; background-size: cover;} 
+.bg_image_5                 {   background-image: url('static/images/background/background_5.jpg') ; background-repeat: no-repeat; background-size: cover;} 
+.bg_image_5                 {   background-image: url('static/images/background/background_6.jpg') ; background-repeat: no-repeat; background-size: cover;} 
+.bg_image_7                 {   background-image: url('static/images/background/background_7.jpg') ; background-repeat: no-repeat; background-size: cover;} 
+.bg_image_8                 {   background-image: url('static/images/background/background_8.jpg') ; background-repeat: no-repeat; background-size: cover;} 
+.bg_image_9                 {   background-image: url('static/images/background/background_9.jpg') ; background-repeat: no-repeat; background-size: cover;} 
+
+.bg_color_publication       {   background-color: #2007af;}
+.border_line_publication    {   border-width:2px;  border-style:solid;  border-color:#000000;  background-color: #ffffff; border-radius: 10px;}
+
+.borderexample_3            {   border-width:1px;  border-style:solid;  border-color:#000000;  border-radius: 10px;                 }
+.border_line_libraries      {   border-width:1px;  border-style:solid;  border-color:rgba(255, 221, 0, 0.99);  border-radius: 10px; }
+.border_line_libraries_con  {   border-width:3px;  border-style:solid;  border-color:rgba(0, 0, 0, 0.99); border-radius: 18px;      }
+.border_line_language       {   border-width:7px;  border-style:solid;  border-color:rgba(41, 6, 216, 0.99);  border-radius: 20px;  }
+.border_line_no_color       {   border-width:1px;  border-style:solid;  border-radius: 10px; }
+.border_line_comment        {   border-width:2px;  border-style:solid;  border-color:rgba(0, 0, 0, 0.99); border-radius: 10px;      }
+.border_line_light          {   border-width:1px;  border-style:solid;  border-color:rgba(11, 11, 11, 0.99);  border-radius: 10px;  }
+
+.one_line                   {   width: 100%;                    }   
+.font_size_very_small       {   font-size: 12px                 }
+
+.navbar                     {   height: 12vh;                   }
+.first_container            {   margin-top: calc(4vh + 16px);   }
+.color_blue                 {   color: rgb(0, 0, 255);        }
+.align_right                {   text-align: right;              }
+.align_left                 {   text-align: left;               }
+.column_gab                 {   column-gap: 20px;               }
+
+.border_line_input          {   border-width:2px;  border-style:solid;  border-color:rgba(0, 0, 0, 0.99);  border-radius: 10px;     }
+
+
+
 
 
 
