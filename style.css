@@ -200,8 +200,17 @@ body {
 .border_line_publication    {   border-width:2px;  border-style:solid;  border-color:#000000;  background-color: #ffffff; border-radius: 10px;}
 
 .borderexample_3            {   border-width:1px;  border-style:solid;  border-color:#000000;  border-radius: 10px;                 }
-.border_line_libraries      {   border-width:1px;  border-style:solid;  border-color:rgba(255, 221, 0, 0.99);  border-radius: 10px; }
-.border_line_libraries_con  {   border-width:3px;  border-style:solid;  border-color:rgba(0, 0, 0, 0.99); border-radius: 18px;      }
+
+
+.border_line_libraries1     {   border-width:1px;  border-style:solid;  border-color:rgba(255, 0, 0.99);  border-radius: 10px; }
+.border_line_libraries2     {   border-width:1px;  border-style:solid;  border-color:rgba(0, 0, 0, 0.99);  border-radius: 10px; }
+.border_line_libraries3     {   border-width:1px;  border-style:solid;  border-color:rgba(0, 0, 255, 0.99);  border-radius: 10px; }
+
+
+.border_line_libraries_con1  {   border-width:3px;  border-style:solid;  border-color:rgba(255, 0, 0, 0.99); border-radius: 18px;      }
+.border_line_libraries_con2  {   border-width:3px;  border-style:solid;  border-color:rgba(0, 0, 0, 0.99); border-radius: 18px;      }
+.border_line_libraries_con3  {   border-width:3px;  border-style:solid;  border-color:rgba(0, 0, 255, 0.99); border-radius: 18px;      }
+
 .border_line_language       {   border-width:7px;  border-style:solid;  border-color:rgba(41, 6, 216, 0.99);  border-radius: 20px;  }
 .border_line_no_color       {   border-width:1px;  border-style:solid;  border-radius: 10px; }
 .border_line_comment        {   border-width:2px;  border-style:solid;  border-color:rgba(0, 0, 0, 0.99); border-radius: 10px;      }
